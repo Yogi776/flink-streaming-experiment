@@ -1,0 +1,12 @@
+com/example/KafkaStreamingJob$CategoryAnalyticsProcessor.class
+com/example/KafkaStreamingJob$FraudDetectionFilter.class
+com/example/KafkaStreamingJob$TransactionParser.class
+com/example/MockDataStreamingJob$TemperatureAverager.class
+com/example/MockDataStreamingJob$SensorReading.class
+com/example/MockDataStreamingJob$TemperatureMapper.class
+com/example/KafkaStreamingJob.class
+com/example/KafkaStreamingJob$ActivityParser.class
+com/example/KafkaStreamingJob$UserActivity.class
+com/example/MockDataStreamingJob$SensorDataSource.class
+com/example/KafkaStreamingJob$Transaction.class
+com/example/MockDataStreamingJob.class

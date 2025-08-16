@@ -1,0 +1,12 @@
+FROM python:3.9-slim
+
+WORKDIR /app
+
+# Install required Python packages
+RUN pip install kafka-python faker
+
+# Copy the data generator script
+COPY data-generator/ /app/
+
+# Run the data generator
+CMD ["python", "kafka_data_generator.py"]
